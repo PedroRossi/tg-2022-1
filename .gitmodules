@@ -1,0 +1,6 @@
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:PedroRossi/ansible.git
+[submodule "home"]
+	path = home
+	url = git@github.com:PedroRossi/home.git
